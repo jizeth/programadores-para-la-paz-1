@@ -1,0 +1,5 @@
+Para mí, como estudiante que va empezando, al principio la terminal me daba un poco de miedo porque parece sacada de una película de hackers. Pero ya entendí por qué es tan importante.
+
+Es clave porque cuando programas, no puedes depender siempre del mouse para dar "doble clic" y arrastrar carpetas. Herramientas súper importantes como Git (para guardar los cambios de tu código) no tienen botones normales; se controlan escribiendo comandos en la terminal.
+
+Si no sabes moverte por las carpetas (cd), ver qué hay dentro (ls) o saber dónde estás parado (pwd), estás prácticamente "ciego" dentro de tu propio proyecto. Saber usar la terminal te da velocidad, te ayuda a organizar tu código de forma limpia y es la única manera de poder conectar tu computadora con las herramientas reales que se usan en el día a día de la programación. Básicamente, es el lenguaje en el que le hablas directo a tu computadora.

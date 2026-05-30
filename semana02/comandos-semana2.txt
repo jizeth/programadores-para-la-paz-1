@@ -1,0 +1,9 @@
+cd programadores-para-la-paz
+cd semana1
+cd programadores-para-la-paz-1
+mkdir semana02
+cd semana02
+touch preguntas-semana2.txt
+touch comandos-semana2.txt
+touch reflexion-semana2.txt
+
