@@ -1,0 +1,3 @@
+Para mí, la importancia de registrar los cambios con Git es que te quita la frustración de encima. Es como tener un botón de "deshacer" pero para todo tu proyecto. Si mi código funciona a las 8:00 de la noche, lo aseguro con Git; si a las 9:00 de la noche lo rompí por completo intentando agregar algo nuevo, no pasa nada, no perdí mi tiempo porque puedo regresar a la versión de las 8:00 en un segundo.
+
+Apenas estoy aprendiendo los comandos básicos, pero ya me di cuenta de que Git es una herramienta que te permite experimentar y picarle a todo sin miedo. Te da la libertad de equivocarte, y creo que de eso se trata aprender a programar.

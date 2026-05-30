@@ -1,0 +1,5 @@
+repositorio es como una carpeta en donde tenemos acceso a una línea de tiempo de todos los cambios que se han realizado a nuestros proyectos, esto nos puede ayudar ya que podemos tener nuestras cosas de forma local como en la nube sin que se afectuen cambios.
+
+commit funciona como un guardado o un punto de control de un video juego, donde nuestros archivos se salvan de forma permanente y se pueden entrar a ellos siempre que necesitemos
+
+push es cuando nosotros subimos todo nuestros guardados a la nube para que nuestros proyectos se actualicen y demás miembros del equipo puedan visualizarlo 
