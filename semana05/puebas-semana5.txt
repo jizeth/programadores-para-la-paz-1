@@ -1,0 +1,5 @@
+http://localhost:3000 (Ruta raíz): Carga la página principal de la aplicación. El servidor responde mostrando el contenido de inicio del proyecto (como un texto de bienvenida o un archivo HTML principal).
+
+http://localhost:3000/saludo (Ruta estática): El servidor procesa esta dirección específica y devuelve un saludo general fijo (por ejemplo, un texto que dice "¡Hola, comunidad!").
+
+http://localhost:3000/mensaje/juan (Ruta con parámetro dinámico): El servidor lee el nombre enviado en la URL ("juan") como una variable y responde de forma personalizada, mostrando un mensaje dirigido específicamente a ese usuario (por ejemplo: "Hola Juan, este es tu mensaje").

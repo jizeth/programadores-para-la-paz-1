@@ -1,0 +1,4 @@
+¿ Que hace esta ruta? Su función principal es recibir información que el usuario envía (como un formulario o un texto), extraer el contenido específico que viene dentro de req.body.mensaje y, finalmente, responderle al usuario confirmando que los datos llegaron correctamente.
+
+¿Para que podría servir en una aplicaion comunitaria?
+En el contexto de un barrio o una iniciativa ciudadana, esta ruta sería el motor para recibir cualquier tipo de alertas o solicitudes de los vecinos. Podría servir, por ejemplo, para que un ciudadano reporte un poste de luz dañado, una vía bloqueada, una emergencia vecinal o simplemente para enviar sugerencias al comité del barrio. El vecino escribe el problema en su celular, la aplicación usa esta ruta para mandar el texto al servidor de forma segura y organizada, y el sistema le confirma al instante que su reporte ya fue registrado y está en proceso de revisión.
