@@ -1,0 +1,6 @@
+Al consultar la ruta GET /reportes el servidor devuelve todos los reportes
+almacenados en el array reportes. Después de registrar un reporte mediante la ruta
+POST, este queda guardado temporalmente en memoria y puede visualizarse
+mediante la consulta GET. Cada vez que se agrega un nuevo reporte, la lista mostrará
+todos los registros almacenados mientras el servidor permanezca encendido.
+
