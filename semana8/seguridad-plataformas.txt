@@ -1,0 +1,9 @@
+1. Implementar autenticación de dos factores (2FA): Añadir una capa extra de protección además de la contraseña, requiriendo un código dinámico (por ejemplo, desde una app de autenticación) para que solo las personas autorizadas puedan acceder a la administración de la comunidad.
+
+2. Asignar roles y permisos específicos: No todos los colaboradores necesitan acceso de administrador. Configurar perfiles diferenciados (como editor, moderador o usuario) asegura que cada persona interactúe solo con las herramientas y datos necesarios para su rol.
+
+3. Mantener el software y complementos actualizados: Programar actualizaciones periódicas del sistema operativo, bases de datos o etc.
+
+4. Realizar copias de seguridad (backups) automatizadas y cifradas: Programar respaldos frecuentes de la base de datos y archivos de la comunidad en un almacenamiento seguro y externo, garantizando la recuperación de la información ante un posible ataque o fallo técnico.
+
+5. Cifrar los datos en tránsito y en reposo (Uso de HTTPS/SSL): Asegurar que toda la información que viaja entre los usuarios y el servidor esté encriptada, y que los datos sensibles guardados (como las contraseñas en la base de datos) utilicen funciones de hash seguras para que no puedan ser legibles en caso de una filtración.
